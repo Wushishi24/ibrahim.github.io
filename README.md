@@ -1,4 +1,3 @@
-# wushishi.github.io
 # Ibrahim Wushishi Abdullahi
 
 ## Sales Data Analyst | Web Programmer
